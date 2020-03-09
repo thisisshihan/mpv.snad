@@ -82,3 +82,4 @@ _Apply Video Filter_ <kbd> V </kbd>, <kbd> CTRL </kbd> + <kbd> 1 -> 9 </kbd> <br
 > mpv is under active development, focusing on code refactoring and cleanups as well as adding features. Want a feature?
 
 -------------------------------------------
+git checkout tags/v0.8.1 -b release_v0.8.2
