@@ -11,7 +11,9 @@ based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your vid
 
 ## Downloads:
 * Latest Windows stable version v33 (this file contain all the config files): [mpv.snad](https://bit.ly/2Vx9klX) _(2020-12-06)_
+* Latest Windows beta version v20210905 (this file contain all the config files): [mpv.snad](https://bit.ly/3yStqVf) _(2021-09-05)_
 * Latest Windows beta version v20210801 (this file contain all the config files): [mpv.snad](https://bit.ly/3xuGZJX) _(2021-08-01)_
+
 #### How to install:
 * Extract the files.
 * Move the folder to required destination.
