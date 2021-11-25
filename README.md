@@ -10,12 +10,15 @@ _[mpv.snad](https://github.com/thisisshihan/mpv.snad)_ is a player which configu
 based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your video experience with most useful featuers. (see complete _[key gide](https://github.com/thisisshihan/mpv-player-config-snad/blob/mpv-config-snad-windows-ubuntu-linux-macos/KEY.md)_ for all available options)
 
 ## Downloads:
-* Latest Windows stable version v34 (this file contain all the config files): [mpv.snad](https://bit.ly/32mLuw4) _(2021-11-07)_
-* Previous Windows stable version v33 (this file contain all the config files): [mpv.snad](https://bit.ly/2Vx9klX) _(2020-12-06)_
+#### Latest Windows Stable & Beta Version:
+* Stable Version v34 (this file contain all the config files): [mpv.snad](https://bit.ly/32mLuw4) _(2021-11-07)_
+* Beta version v20211003 (this file contain all the config files): [mpv.snad](https://bit.ly/3iBhC4k) _(2021-10-03)_
 
-* Latest Windows beta version v20210801 (this file contain all the config files): [mpv.snad](https://bit.ly/3xuGZJX) _(2021-08-01)_
-* Latest Windows beta version v20210905 (this file contain all the config files): [mpv.snad](https://bit.ly/3yStqVf) _(2021-09-05)_
-* Latest Windows beta version v20211003 (this file contain all the config files): [mpv.snad](https://bit.ly/3iBhC4k) _(2021-10-03)_
+#### Previous Windows Stable & Beta Version:
+* Stable Version v33 (this file contain all the config files): [mpv.snad](https://bit.ly/2Vx9klX) _(2020-12-06)_
+* Beta version v20210801 (this file contain all the config files): [mpv.snad](https://bit.ly/3xuGZJX) _(2021-08-01)_
+* Beta version v20210905 (this file contain all the config files): [mpv.snad](https://bit.ly/3yStqVf) _(2021-09-05)_
+
 
 #### How to install:
 * Extract the files.
