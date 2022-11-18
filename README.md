@@ -11,11 +11,12 @@ based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your vid
 
 ## Downloads:
 #### Latest Windows Stable & Beta Version:
-* Stable Version v34 (this file contain all the config files): [mpv.snad](https://bit.ly/32mLuw4) _(2021-11-07)_
+* Stable Version v35 (this file contain all the config files): [mpv.snad](https://bit.ly/3ULzvib) _(2022-11-14)_
 * Beta version v20220717 (this file contain all the config files): [mpv.snad](https://bit.ly/3uYv609) _(2022-07-17)_
 
 #### Previous Windows Stable & Beta Version:
 * Stable Version v33 (this file contain all the config files): [mpv.snad](https://bit.ly/2Vx9klX) _(2020-12-06)_
+* Stable Version v34 (this file contain all the config files): [mpv.snad](https://bit.ly/32mLuw4) _(2021-11-07)_
 * Beta version v20210905 (this file contain all the config files): [mpv.snad](https://bit.ly/3yStqVf) _(2021-09-05)_
 * Beta version v20211003 (this file contain all the config files): [mpv.snad](https://bit.ly/3iBhC4k) _(2021-10-03)_
 * Beta version v20211212 (this file contain all the config files): [mpv.snad](https://bit.ly/3m27XWo) _(2021-12-12)_
