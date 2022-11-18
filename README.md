@@ -11,7 +11,7 @@ based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your vid
 
 ## Downloads:
 #### Latest Windows Stable & Beta Version:
-* Stable Version v35 (this file contain all the config files): [mpv.snad](https://bit.ly/3ULzvib) _(2022-11-14)_
+* Stable Version v35 (this file contain all the config files): [mpv.snad](https://bit.ly/3ULzvib) _(2022-11-14 [Changelog](https://github.com/mpv-player/mpv/releases))_
 * Beta version v20220717 (this file contain all the config files): [mpv.snad](https://bit.ly/3uYv609) _(2022-07-17)_
 
 #### Previous Windows Stable & Beta Version:
