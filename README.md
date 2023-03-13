@@ -10,17 +10,15 @@ _[mpv.snad](https://github.com/thisisshihan/mpv.snad)_ is a player which configu
 based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your video experience with most useful featuers. (see complete _[key gide](https://github.com/thisisshihan/mpv-player-config-snad/blob/mpv-config-snad-windows-ubuntu-linux-macos/KEY.md)_ for all available options)
 
 ## Downloads:
-#### Latest Windows Stable & Beta Version:
-* Stable Version v35 (this file contain all the config files): [mpv.snad](https://bit.ly/3ULzvib) _(2022-11-14 [Changelog](https://github.com/mpv-player/mpv/releases))_
-* Beta version v20220717 (this file contain all the config files): [mpv.snad](https://bit.ly/3uYv609) _(2022-07-17)_
+#### Latest Windows Stable Version:
+* Stable Version v35.1 (this file contain all the config files): [mpv.snad](https://bit.ly/3YGdH8O) _(2023-01-29 [Changelog](https://github.com/mpv-player/mpv/releases))_
+**_AMD FSR and NVIDIA Image Scaling added (CTRL+A/N/Z) added to mpv.snad v35.1_**
+
 
 #### Previous Windows Stable & Beta Version:
+* Stable Version v35 (this file contain all the config files): [mpv.snad](https://bit.ly/3ULzvib) _(2022-11-14)_
 * Stable Version v33 (this file contain all the config files): [mpv.snad](https://bit.ly/2Vx9klX) _(2020-12-06)_
 * Stable Version v34 (this file contain all the config files): [mpv.snad](https://bit.ly/32mLuw4) _(2021-11-07)_
-* Beta version v20210905 (this file contain all the config files): [mpv.snad](https://bit.ly/3yStqVf) _(2021-09-05)_
-* Beta version v20211003 (this file contain all the config files): [mpv.snad](https://bit.ly/3iBhC4k) _(2021-10-03)_
-* Beta version v20211212 (this file contain all the config files): [mpv.snad](https://bit.ly/3m27XWo) _(2021-12-12)_
-
 
 #### How to install:
 * Extract the files.
