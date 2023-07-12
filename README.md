@@ -10,7 +10,7 @@ based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your vid
 
 ## Downloads:
 #### Latest Windows Version:
-* Download the latest version from sourceforge.net [mpv.snad](https://sourceforge.net/projects/mpv-snad/files/stable/) (this file contain all the config files) 
+* Download the latest version from sourceforge.net [mpv.snad](https://sourceforge.net/projects/mpv-snad/files/) (this file contain all the config files) 
 * _(AMD FSR and NVIDIA Image Scaling added (CTRL+A/N/Z) added to v35.1 +)_
 
 #### How to install:
