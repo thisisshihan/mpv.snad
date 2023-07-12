@@ -1,7 +1,6 @@
 -----------------------------------
 # mpv.snad for windows
 _[mpv](https://mpv.io/) a free, open source, and cross-platform media player._
-_(This repository contain stable and beta version (update monthly) for windows)_
 
 ![https://mpv.io/](https://github.com/thisisshihan/screenshots/blob/master/mpv.icon256.png)
 
