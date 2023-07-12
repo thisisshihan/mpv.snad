@@ -9,9 +9,9 @@ _[mpv.snad](https://github.com/thisisshihan/mpv.snad)_ is a player which configu
 based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your video experience with most useful featuers. (see complete _[key gide](https://github.com/thisisshihan/mpv-player-config-snad/blob/mpv-config-snad-windows-ubuntu-linux-macos/KEY.md)_ for all available options)
 
 ## Downloads:
-#### Latest Windows Stable Version:
+#### Latest Windows Version:
 * Stable Version v35.1 (this file contain all the config files): [mpv.snad](https://sourceforge.net/projects/mpv-snad/files/stable/)
-**_AMD FSR and NVIDIA Image Scaling added (CTRL+A/N/Z) added to v35.1 +_**
+* _(AMD FSR and NVIDIA Image Scaling added (CTRL+A/N/Z) added to v35.1 +)_
 
 #### How to install:
 * Extract the files.
