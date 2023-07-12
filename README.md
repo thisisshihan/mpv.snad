@@ -11,14 +11,8 @@ based on most known as _[mplayer](http://www.mplayerhq.hu)_ to optimize your vid
 
 ## Downloads:
 #### Latest Windows Stable Version:
-* Stable Version v35.1 (this file contain all the config files): [mpv.snad](https://sourceforge.net/projects/mpv-snad/files/stable/) _(2023-01-29 [Changelog](https://github.com/mpv-player/mpv/releases))_
-**_AMD FSR and NVIDIA Image Scaling added (CTRL+A/N/Z) added to mpv.snad v35.1_**
-
-
-#### Previous Windows Stable & Beta Version:
-* Stable Version v35 (this file contain all the config files): [mpv.snad](https://bit.ly/3ULzvib) _(2022-11-14)_
-* Stable Version v33 (this file contain all the config files): [mpv.snad](https://bit.ly/2Vx9klX) _(2020-12-06)_
-* Stable Version v34 (this file contain all the config files): [mpv.snad](https://bit.ly/32mLuw4) _(2021-11-07)_
+* Stable Version v35.1 (this file contain all the config files): [mpv.snad](https://sourceforge.net/projects/mpv-snad/files/stable/)
+**_AMD FSR and NVIDIA Image Scaling added (CTRL+A/N/Z) added to v35.1 + _**
 
 #### How to install:
 * Extract the files.
