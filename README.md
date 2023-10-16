@@ -1,3 +1,5 @@
+# This repo moved to [sourceforge](https://sourceforge.net/projects/mpv-snad/)
+
 -----------------------------------
 # mpv.snad for windows
 _[mpv](https://mpv.io/) a free, open source, and cross-platform media player._
